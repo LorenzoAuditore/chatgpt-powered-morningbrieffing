@@ -5,12 +5,12 @@ An iOS Shortcut that leverages ChatGPT to deliver a highly personalized morning 
 
 ### Minimal Requirements
 
-- An iOS device
+- An iOS device capable of running iOS 18.4
 - the ChatGPT app on the same device & ChatGPT account on free tier.
 - Saved Memories feature activated.
 
 ### Recommended Requirements
-- A recent iOS device. Anything from iPhone 12 *and* capable of running iOS 18.4
+- A recent iOS device. Anything from iPhone 12 *and* capable of running iOS 18.4. Ideally —but optional, Apple-Intelligence-capable device.
 - The **ChatGPT app** and a **ChatGPT account on the $20 tier**. For greater performance, $200 tier is possible but entirely optional.
 - Saved Memories feature activated.
 - Customize ChatGPT feature activated and populated.
