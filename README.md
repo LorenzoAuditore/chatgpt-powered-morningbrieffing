@@ -27,7 +27,7 @@ An iOS Shortcut that leverages ChatGPT to deliver a highly personalized morning 
 
 You can Automate the morning briefing by going to the Shortcuts app => Automations => [Pick a trigger] => Choose the Shortcut as the triggered action.
 
-–––
+___
 
 ### Notes and Troubleshooting
 
@@ -36,6 +36,8 @@ By default, this Shortcut will run with ChatGPT 4.1. However, you can change it 
 But ChatGPT 4.1 is slow and can sometimes lead to a "timeout" error in the Shortcut, essentially stopping the Shortcut.
 
 Sometimes, timeout errors happen randomly. It does not mean the Shortcut does not work, but only that OpenAI servers might experience a slowdown. You might also want to **restart your iOS device**.
+
+___
 
 ### Additional Troubleshooting
 
